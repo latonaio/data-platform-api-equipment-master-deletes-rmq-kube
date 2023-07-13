@@ -1,0 +1,1 @@
+# data-platform-api-equipment-master-deletes-rmq-kube
